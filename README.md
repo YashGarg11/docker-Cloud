@@ -14,10 +14,10 @@
 | ------------------------------- | --------------------------------------------- |
 | `docker intro.pdf`              | Basics & Introduction to Docker               |
 | `dockerfile.pdf`                | Dockerfile, image & container concepts        |
-| `multiple container.pdf`        | Day 26 – Multi-container setup & networking   |
-| `predefined image , volume.pdf` | Day 27 – Predefined Images & Volumes          |
-| `docker network.pdf`            | Day 29 – Networking & Container communication |
-| `docker compose.pdf`            | Day 30 – Docker Compose practical             |
+| `multiple container.pdf`        | Multi-container setup & networking   |
+| `predefined image , volume.pdf` | – Predefined Images & Volumes          |
+| `docker network.pdf`            |  – Networking & Container communication |
+| `docker compose.pdf`            | – Docker Compose practical             |
 | `docker registry.pdf`           | Registries, Installation & Commands           |
 | `container connection.pdf`      | Container-to-container connection             |
 | `docker_cheat_sheet.pdf`        | 📌 One-page Docker Cheat Sheet                |
